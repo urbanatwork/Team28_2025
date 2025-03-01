@@ -5,8 +5,10 @@
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
 
+// ====================== NOTES  ====================== 
 // BASED OFF THE REV SPARKMAX closed loop example.
 // This uses the SmartDashboard for feedback and for selecting the levels. 
+// A "simple" version to test the elevator that is connected to a REV SparkMax and Neo
 
 package frc.robot;
 
